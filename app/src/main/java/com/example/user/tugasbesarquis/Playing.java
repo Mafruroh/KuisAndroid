@@ -64,7 +64,7 @@ public class Playing extends AppCompatActivity implements View.OnClickListener  
                 //memilih jawaban benar
                 score+=10;
                 jawabanBenar++;
-                showPertanyaan(index);
+                showPertanyaan(++index);
             }
             else
             {
