@@ -1,0 +1,104 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://www.youthmanual.com/assets/file_uploaded/editor/1521692609-whatsapp-i.jpeg",
+      "Nama" : "Ipa"
+    },
+    "02" : {
+      "Image" : "https://www.silabus.web.id/wp-content/uploads/2018/05/Silabus-dan-RPP-Pengertian-Tujuan-Manfaat-Pedoman-Prinsip-Pengembangan-626x391.jpg",
+      "Nama" : "Ips"
+    },
+    "03" : {
+      "Image" : "https://i2.wp.com/www.maxmanroe.com/vid/wp-content/uploads/2018/07/Pengertian-Sejarah.jpg?resize=640%2C349&ssl=1",
+      "Nama" : "Sejarah"
+    },
+    "04" : {
+      "Image" : "http://jadiberita.com/wp-content/uploads/2017/07/Opini-18-02-Ekatanaya-shutterstock_562033984-670x335.jpg",
+      "Nama" : "Agama"
+    },
+    "05" : {
+      "Image" : "http://ulilalbab.org/e107_images/newspost_images/cara-memilih-olahraga-untuk-anak.jpg",
+      "Nama" : "Olahraga"
+    },
+    "06" : {
+      "Image" : "https://img-z.okeinfo.net/content/2011/02/01/373/420273/mXOFVjJfBF.jpg",
+      "Nama" : "Matematika"
+    }
+  },
+  "Pertanyaan" : {
+    "01" : {
+      "CategorId" : "01",
+      "IsImageQuestion" : "true",
+      "JawabanA" : "menghemat energi listrik setelah menonton tv",
+      "JawabanB" : "mengurangi polusi suara",
+      "JawabanBenar" : "menghemat energi listrik setelah menonton tv",
+      "JawabanC" : "waspada terhadap bahaya kebakaran",
+      "JawabanD" : "menjaga ruangan agar gelap",
+      "Pertanyaan" : "https://2.bp.blogspot.com/-whEtpVKSZTM/WIZBT0OvGjI/AAAAAAAAQVM/eyTW7443jrQlq8pUTwuSxOJanBB8aqikgCLcB/s1600/hemat-energi-listrik.jpg"
+    },
+    "02" : {
+      "CategorId" : "01",
+      "IsImageQuestion" : "false",
+      "JawabanA" : "Hidung",
+      "JawabanB" : "Kulit",
+      "JawabanBenar" : "Hidung",
+      "JawabanC" : "Mata",
+      "JawabanD" : "Telinga",
+      "Pertanyaan" : "Alat indra yang paling peka untuk membedakan benda panas dan benda dingin adalah. ."
+    },
+    "03" : {
+      "CategorId" : "02",
+      "IsImageQuestion" : "false",
+      "JawabanA" : "10 November",
+      "JawabanB" : "8 November",
+      "JawabanBenar" : "10 November",
+      "JawabanC" : "7 November",
+      "JawabanD" : "9 November",
+      "Pertanyaan" : "Hari pahlawan ditetapkan pada tanggal"
+    }
+  },
+  "Pertanyaan_Score" : {
+    "uroh2_01" : {
+      "pertanyaan_Score" : "uroh2_01",
+      "score" : "10",
+      "user" : "uroh2"
+    },
+    "uroh_01" : {
+      "pertanyaan_Score" : "uroh_01",
+      "score" : "20",
+      "user" : "uroh"
+    },
+    "uroh_02" : {
+      "pertanyaan_Score" : "uroh_02",
+      "score" : "0",
+      "user" : "uroh"
+    },
+    "uroh_03" : {
+      "pertanyaan_Score" : "uroh_03",
+      "score" : "0",
+      "user" : "uroh"
+    }
+  },
+  "Ranking" : {
+    "uroh" : {
+      "score" : 20,
+      "userName" : "uroh"
+    },
+    "uroh2" : {
+      "score" : 10,
+      "userName" : "uroh2"
+    }
+  },
+  "User" : {
+    "uroh" : {
+      "email" : "uroh@gmail.com",
+      "password" : "123",
+      "username" : "uroh"
+    },
+    "uroh2" : {
+      "email" : "uroh12@gmail.com",
+      "password" : "123",
+      "username" : "uroh2"
+    }
+  }
+}
